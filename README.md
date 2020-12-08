@@ -1,7 +1,7 @@
 # PrepBytes-questions
 one can follow to excel in coding if you are a noob!!
 # How to start preparation for placements?
-To start with first and foremost , finalize your target companies
+To start with first and foremost , finalize your target companies \n.
 Talk to seniors placed in your target companies before starting the preparation for a particular target company.
 Prioritize the list of target companies based on your interests and goals
 Make a schedule for yourself.
