@@ -21,8 +21,7 @@ while(t>0)
   t--;
 }
   return 0;
-}
-*/
+}*/
 #include <iostream>
 #include <algorithm>
 using namespace std;
