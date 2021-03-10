@@ -23,7 +23,7 @@ while(t>0)
       break;
     }
   }
-  t--;
+  t--;//jgyrjf
 }
   return 0;
 }
