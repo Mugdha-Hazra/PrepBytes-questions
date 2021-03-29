@@ -1,29 +1,18 @@
 #include <bits/stdc++.h>
 using namespace std;
-
 int main()
 {int t;
 cin>>t;
-while(t>0)
+while(t--)
 {
-  int n,a[1000000],i,j;
+  int n,k,s=0,i;
   cin>>n;
   for(i=0;i<n;i++)
   {
-    cin>>a[i];
+    cin>>k;
+     s=s^k;
   }
-  sort(a,a+n);
-  j=1;
-  for(i=0;i<n;i=i+2)
-  {
-    if(a[i]==a[j])
-    j+=2;
-    else{
-      cout<<a[i]<<"\n";
-      break;
-    }
-  }
-  t--;//jgyrjf
+  cout<<s<<"\n";
 }
   return 0;
 }
