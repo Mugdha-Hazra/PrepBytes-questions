@@ -38,4 +38,17 @@ Nothing can stop you if you plan well and execute it keeping time & focus into c
              Dont forget to create a Pull Request if you can make it even Better  🚀
 
 
+<br/>
+
+#### Thank you all for the love and support!
+
+<br/>
+
+## Stargazers ⭐⭐
+[![Stargazers repo roster for @Mugdha-Hazra/PrepBytes-questions](https://reporoster.com/stars/dark/Mugdha-Hazra/PrepBytes-questions)](https://github.com/Mugdha-Hazra/PrepBytes-questions/stargazers)
+
+## Forkers 🚀🚀
+
+[![Forkers repo roster for @Mugdha-Hazra/PrepBytes-questions](https://reporoster.com/forks/dark/Mugdha-Hazra/PrepBytes-questions)](https://github.com/Mugdha-Hazra/PrepBytes-questions/network/members)
+
 
